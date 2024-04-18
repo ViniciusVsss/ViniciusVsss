@@ -6,7 +6,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVsss&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
 
-  ## Linguagens
+ ## Linguagens
   
 <div style="display: inline block"><br>
  <img align="center" alt="7s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
