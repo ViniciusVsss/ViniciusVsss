@@ -13,7 +13,7 @@
   
 <br>
 
-## Para conteúdo sobre programação segue a gente nas redes abaixo!
+## Contatos abaixo!
 
 <div>
  <a href="https://discord.gg/SDVhGKVf4h" target=" blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target=" blank"></a>
