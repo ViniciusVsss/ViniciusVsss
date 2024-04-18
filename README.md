@@ -20,8 +20,8 @@
 
 <div>
  <a href="https://discord.gg/SDVhGKVf4h" target=" blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target=" blank"></a>
- <a href = "maildo: viniciusassisfb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target=" blank"></a>
- <a href="https://www.linkedin.com/in/vinicius-assisfb" target=" blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target=" blank"></a>
+ <a href = "viniciusassisfb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+ <a href="https://www.linkedin.com/in/vinicius-assisfb" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="blank"></a>
 
  ![Snake animation](https://github.com/ViniciusVsss/ViniciusVsss/blob/output/github-contribution-grid-snake.svg)
 
