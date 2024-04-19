@@ -25,6 +25,7 @@
  
 ##
 
-![6ae09d56f3894692b0c0c735a9882916 (1)](https://github.com/ViniciusVsss/ViniciusVsss/assets/167255353/b9cfcc3a-dbf2-4d7e-985b-c4754c0bf128)
+![test-typing (1)](https://github.com/ViniciusVsss/ViniciusVsss/assets/167255353/04f2290b-dae8-42d3-81cb-183e7ee90170)
+
 
 </div>
