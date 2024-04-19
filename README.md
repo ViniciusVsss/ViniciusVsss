@@ -25,6 +25,6 @@
  
 ##
 
- ![test-typing](https://github.com/ViniciusVsss/ViniciusVsss/assets/167255353/6d8bbc13-4acf-4062-958e-2a49ac18deae) ![test-typing](https://github.com/ViniciusVsss/ViniciusVsss/assets/167255353/17e7bc24-d7a5-436e-8a4a-40472840cd5c)
+![97b312409fbcabc96d97ef45bf8f852b](https://github.com/ViniciusVsss/ViniciusVsss/assets/167255353/0f09f615-282d-4c31-9fb8-7c8dba0e37b3)
 
 </div>
