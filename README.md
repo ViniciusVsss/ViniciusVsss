@@ -22,6 +22,7 @@
  <a href="https://discord.gg/SDVhGKVf4h" target=" blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target=" blank"></a>
  <a href = "viniciusassisfb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
  <a href="https://www.linkedin.com/in/vinicius-assisfb" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="blank"></a>
+ 
 ##
 
  ![test-typing](https://github.com/ViniciusVsss/ViniciusVsss/assets/167255353/6d8bbc13-4acf-4062-958e-2a49ac18deae) ![test-typing](https://github.com/ViniciusVsss/ViniciusVsss/assets/167255353/17e7bc24-d7a5-436e-8a4a-40472840cd5c)
