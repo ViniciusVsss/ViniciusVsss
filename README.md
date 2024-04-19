@@ -25,6 +25,7 @@
  
 ##
 
-![1591883470_004485_1591942609_noticia_normal](https://github.com/ViniciusVsss/ViniciusVsss/assets/167255353/094ca404-f951-4345-a09d-1f713df368fa)
+![6ae09d56f3894692b0c0c735a9882916](https://github.com/ViniciusVsss/ViniciusVsss/assets/167255353/634751e4-0e51-4faa-a60d-3098b4b0d014)
+
 
 </div>
